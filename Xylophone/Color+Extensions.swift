@@ -16,5 +16,6 @@ extension UIColor {
     static let greenAsset = UIColor(named: "Xylo_Green")
     static let sblueAsset = UIColor(named: "Xylo_SBlue")
     static let yellowAsset = UIColor(named: "Xylo_Yellow")
+    static let brownAsset = UIColor(named: "Base_Color")
 }
 
